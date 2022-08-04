@@ -30,3 +30,9 @@ public class Ques2 {
 
     }
 }
+
+/*
+OUTPUT
+
+
+*/
